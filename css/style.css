@@ -1,0 +1,10 @@
+body {
+  margin-top: 60px;
+  background-color: green;
+}
+#jumbotron, #thumbnail {
+  background-color: #32CD32;
+}
+img {
+  margin-top: 30px;
+}
